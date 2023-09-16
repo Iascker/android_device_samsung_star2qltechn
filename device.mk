@@ -15,3 +15,7 @@ TARGET_SCREEN_WIDTH := 1440
 # Display
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.sf.lcd_density=420
+
+# Overlays
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay
