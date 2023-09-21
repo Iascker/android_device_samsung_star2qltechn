@@ -9,6 +9,9 @@ include device/samsung/sdm845-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/samsung/starqltechn
 
+# Assert
+TARGET_OTA_ASSERT_DEVICE := starqltechn
+
 # Display
 TARGET_SCREEN_DENSITY := 420
 
