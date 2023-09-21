@@ -14,4 +14,4 @@ TARGET_SCREEN_WIDTH := 1440
 
 # Display
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.sf.lcd_density=420 \
+    ro.sf.lcd_density=420

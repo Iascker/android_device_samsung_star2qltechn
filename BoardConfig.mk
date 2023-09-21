@@ -7,10 +7,10 @@
 # Include the common OEM chipset BoardConfig.
 include device/samsung/sdm845-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/samsung/starqlte
+DEVICE_PATH := device/samsung/starqltechn
 
 # Display
 TARGET_SCREEN_DENSITY := 420
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineage_starqlte_defconfig
+TARGET_KERNEL_CONFIG := lineage_starqltechn_defconfig
