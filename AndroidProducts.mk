@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_starqltechn.mk
+    $(LOCAL_DIR)/voltage_starqltechn.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_starqltechn-user \
-    lineage_starqltechn-userdebug \
-    lineage_starqltechn-eng
+    voltage_starqltechn-user \
+    voltage_starqltechn-userdebug \
+    voltage_starqltechn-eng
